@@ -1,2 +1,4 @@
 bin/
 *.class
+classes
+packer.jar
